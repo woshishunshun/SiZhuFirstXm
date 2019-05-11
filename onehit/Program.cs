@@ -11,6 +11,7 @@ namespace onehit
         static void Main(string[] args)
         {
             //我是一号，向顺顺报道！！
+            //我是二号，是你们的弟弟！！
         }
     }
 }
