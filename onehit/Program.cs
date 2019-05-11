@@ -10,6 +10,7 @@ namespace onehit
     {
         static void Main(string[] args)
         {
+            //我是一号，向顺顺报道！！
         }
     }
 }
